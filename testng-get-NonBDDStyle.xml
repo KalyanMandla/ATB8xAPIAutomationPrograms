@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="ATB8xAPIAutomationPrograms">
         <classes>
-            <class name="com.thetestingacademy.sampleCheck.RestAssuredBasics.Get.APITest006_NonBDDStyle">
+            <class name="com.thetestingacademy.sampleCheck.RestAssuredBasics.GET.APITest006_NonBDDStyle">
 <!--                <methods>-->
 <!--                    <include name="test_GET_Request"/>-->
 <!--                </methods>-->

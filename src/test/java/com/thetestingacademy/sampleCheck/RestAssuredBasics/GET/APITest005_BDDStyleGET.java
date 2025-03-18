@@ -1,4 +1,4 @@
-package com.thetestingacademy.sampleCheck.RestAssuredBasics.Get;
+package com.thetestingacademy.sampleCheck.RestAssuredBasics.GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

@@ -1,9 +1,9 @@
-package com.thetestingacademy.sampleCheck.RestAssuredBasics.Get;
+package com.thetestingacademy.sampleCheck.RestAssuredBasics.GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
-public class APITest_GET_TESTNG {
+public class APITest007_GET_TESTNG {
 
     @Test
     public void test_GET_Request(){

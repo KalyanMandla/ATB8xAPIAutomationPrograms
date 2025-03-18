@@ -1,8 +1,6 @@
-package com.thetestingacademy.sampleCheck.RestAssuredBasics.Get;
+package com.thetestingacademy.sampleCheck.RestAssuredBasics.GET;
 
 import io.qameta.allure.Description;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
 import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
