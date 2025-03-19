@@ -8,6 +8,8 @@ import io.restassured.specification.RequestSpecification;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import static org.hamcrest.MatcherAssert.assertThat;
+
 public class APITest011_TestCaseIntegration {
     // Create a token
     // Create a booking
@@ -47,6 +49,7 @@ public class APITest011_TestCaseIntegration {
         // Extract the token
         token = response.jsonPath().getString("token");
         System.out.println(token);
+
         return token;
     }
 
