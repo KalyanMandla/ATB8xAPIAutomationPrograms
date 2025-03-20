@@ -1,6 +1,5 @@
 package com.thetestingacademy.sampleCheck.Assertions;
 
-import io.qameta.allure.internal.shadowed.jackson.databind.deser.DataFormatReaders;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
